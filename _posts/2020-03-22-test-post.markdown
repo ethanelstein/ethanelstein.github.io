@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Test Post"
+date:   2020-03-22 15:39:16 +0000
+categories: jekyll update
+---
+Not sure how this works so this is a test post. If you put something in single apostrophes, it gets a little grey box around it, `like so`. You can also link to sites by first putting the highlighted words in square brackets. E.g here's a wiki of [Lebron James][lebron-james].
+
+[lebron-james]: https://en.wikipedia.org/wiki/LeBron_James
