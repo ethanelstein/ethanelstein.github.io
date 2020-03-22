@@ -7,7 +7,7 @@
 
 # Site settings
 title: My Blog
-email: ethanelstei1@gmail.com
+email: ethanelstein1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Testing out features of GitHub Pages and Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
